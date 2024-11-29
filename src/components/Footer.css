@@ -1,0 +1,12 @@
+.footer {
+    text-align: center;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.5);
+    color: var(--text-color);
+    font-size: 0.9rem;
+  }
+  
+  .footer .highlight {
+    color: var(--highlight-color);
+  }
+  

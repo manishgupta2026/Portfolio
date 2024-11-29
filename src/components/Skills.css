@@ -1,0 +1,72 @@
+.skills {
+    padding: 80px 20px;
+    text-align: center;
+    background: linear-gradient(135deg, #6c63ff, #3b3f92); /* Gradient from Hero section */
+    color: white; /* White text for contrast on dark background */
+  }
+  
+  .skills h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: white; /* White text to contrast against the gradient */
+  }
+  
+  .skills-description {
+    font-size: 1.2rem;
+    margin-bottom: 40px;
+    color: #f9f9f9; /* Light color for description to keep readability */
+  }
+  
+  .skills-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 40px;
+  }
+  
+  .skill-category {
+    max-width: 300px;
+    text-align: center;
+  }
+  
+  .skill-category h3 {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    color: #ffcc00; /* Using the yellow highlight color for the category headings */
+  }
+  
+  .skill-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .skill {
+    background: #fff; /* White background for skills */
+    color: #3b3f92; /* Dark blue text to match the gradient theme */
+    padding: 10px 20px;
+    border-radius: 50px;
+    font-size: 1rem;
+    font-weight: 600;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .skill:hover {
+    transform: scale(1.1);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2); /* Adding shadow on hover */
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .skill-category {
+      max-width: 100%;
+    }
+  
+    .skills-container {
+      flex-direction: column;
+      gap: 20px;
+    }
+  }
+  
