@@ -39,7 +39,7 @@ function Projects() {
           </div>
           <h3>Portfolio</h3>
           <p>Build a Portfolio for Myself . Technologies used: React, CSS, HTML.</p>
-          <a href="#" className="btn">View Project</a>
+          <a href="https://github.com/manishgupta2026/Portfolio" className="btn">View Project</a>
         </div>
       </div>
     </section>
