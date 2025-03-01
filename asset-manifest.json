@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.9fa9afbc.css",
+    "main.js": "/portfolio/static/js/main.2aed53f2.js",
+    "static/media/photo_2024-11-28_13-09-21.jpg": "/portfolio/static/media/photo_2024-11-28_13-09-21.d01aea7bfa3bc3636152.jpg",
+    "static/media/PORTFOLIO.png": "/portfolio/static/media/PORTFOLIO.67692563319693d77534.png",
+    "static/media/img.jpg": "/portfolio/static/media/img.ae98bea406ac11fab51a.jpg",
+    "static/media/140786_Adam_Noonan_Thumbnail_Figma_02_400x277px_102417.png": "/portfolio/static/media/140786_Adam_Noonan_Thumbnail_Figma_02_400x277px_102417.bf16ad5730e0481af6c3.png",
+    "index.html": "/portfolio/index.html",
+    "main.9fa9afbc.css.map": "/portfolio/static/css/main.9fa9afbc.css.map",
+    "main.2aed53f2.js.map": "/portfolio/static/js/main.2aed53f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fa9afbc.css",
+    "static/js/main.2aed53f2.js"
+  ]
+}
